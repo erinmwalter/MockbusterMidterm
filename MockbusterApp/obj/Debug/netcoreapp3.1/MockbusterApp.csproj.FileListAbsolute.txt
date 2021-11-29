@@ -1,0 +1,13 @@
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.exe
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.deps.json
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.dll
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\bin\Debug\netcoreapp3.1\MockbusterApp.pdb
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.dll
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.pdb
+C:\Users\ewalter\source\repos\MockbusterApp\MockbusterApp\obj\Debug\netcoreapp3.1\MockbusterApp.genruntimeconfig.cache
